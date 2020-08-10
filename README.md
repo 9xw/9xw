@@ -3,9 +3,17 @@ age: 16
 
 home: north london, united kingdom
 
-favourite game: r6
+favourite games: r6, csgo
 
 # socials
+ig: purelxw
+
+twitter: purelxw
+
+steam: purelxw
+
+discord: Ice lozza#1337
+
 
 
 
