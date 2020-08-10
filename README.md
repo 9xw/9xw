@@ -8,9 +8,9 @@ favourite games: r6, csgo
 # socials
 ig: [click here](https://www.instagram.com/purelxw/)
 
-twitter: purelxw
+twitter: [click here](https://twitter.com/purelxw)
 
-steam: purelxw
+steam: [click here](https://steamcommunity.com/id/Purelxw)
 
 discord: Ice lozza#1337
 
