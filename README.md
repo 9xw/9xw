@@ -12,4 +12,4 @@ twitter: [click here](https://twitter.com/purelxw)
 
 steam: [click here](https://steamcommunity.com/id/Purelxw)
 
-discord: Ice lozza#1337
+discord: [click here](https://discord.com/users/343735638085861377)
