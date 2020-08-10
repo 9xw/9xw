@@ -1,4 +1,10 @@
-### Hi there 👋
+# info
+age: 16
+home: north london, united kingdom
+favourite game: r6
+
+# socials
+
 
 <!--
 **purelxw/purelxw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
