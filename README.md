@@ -16,6 +16,6 @@ twitter: [click here](https://twitter.com/purelxw)
 
 steam: [click here](https://steamcommunity.com/id/Purelxw)
 
-twitch: [click heere](https://www.twitch.tv/purelxw)
+twitch: [click here](https://www.twitch.tv/purelxw)
 
 # ロザはパパです
