@@ -6,7 +6,7 @@ home: north london, united kingdom
 favourite games: r6, csgo
 
 # socials
-ig: purelxw
+ig: [click here](https://www.instagram.com/purelxw/)
 
 twitter: purelxw
 
