@@ -6,7 +6,7 @@ home: north london, united kingdom
 favourite game: r6
 
 # socials
-  <a href="https://twitter.com/purelxw"><p style="text-align: left;"align="left">twitter<br></p></>
+
 
 
 <!--
