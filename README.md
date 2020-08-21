@@ -15,5 +15,3 @@ telegram: [click here](https://t.me/purelxw)
 twitter: [click here](https://twitter.com/purelxw)
 
 steam: [click here](https://steamcommunity.com/id/Purelxw)
-
-# ロザはパパです
