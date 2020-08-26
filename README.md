@@ -1,5 +1,5 @@
 # info
-?
+16, united kingdom, want to go into cyber security and ethical
 
 # socials
 discord: [click here](https://discord.com/users/343735638085861377)
