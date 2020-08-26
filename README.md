@@ -1,7 +1,5 @@
 # info
-age: 16
-
-home: north london, united kingdom
+?
 
 # socials
 discord: [click here](https://discord.com/users/343735638085861377)
