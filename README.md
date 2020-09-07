@@ -1,7 +1,7 @@
 # purelxw aka lozza
 
 ## info
-16, united kingdom, want to go into cyber security and ethical, won't be working on much because of exams...
+16, united kingdom, want to go into cyber security and ethical, will return around november when these exams finish...
 
 ## socials
 discord: [click here](https://discord.com/users/343735638085861377)
