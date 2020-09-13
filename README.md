@@ -1,4 +1,4 @@
-# purelxw aka lozza
+# purelxw
 
 ## info
 16, united kingdom, want to go into cyber security and ethical, will return around november when these exams finish...
