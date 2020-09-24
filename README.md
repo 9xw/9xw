@@ -4,7 +4,7 @@
 relaxing with projects. will return around november when these exams finish...
 
 ## socials
-discord: [click here](https://discord.com/users/343735638085861377)
+discord: [click here](https://discord.com/users/343735638085861377) server: [click here](https://discord.gg/8quahMp)
 
 telegram: [click here](https://t.me/purelxw)
 
