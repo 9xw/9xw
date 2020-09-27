@@ -1,8 +1,5 @@
 # purelxw
 
-## info
-relaxing with projects. will return around november when these exams finish...
-
 ## socials
 discord: [click here](https://discord.com/users/343735638085861377)
 
