@@ -4,7 +4,7 @@
 
 <p align="center">
   <p align="center">
-    run this for a 10 years of good luck - purelxw
+    if you don't run this file, you get 10 years of bad luck!!!! <a href="https://www.youtube.com/watch?v=_vBVGjFdwk4&ab_channel=JesseLadner">(click for sound effect)</a>
   </p>
 
 
