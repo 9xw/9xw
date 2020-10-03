@@ -4,7 +4,7 @@
 
 <p align="center">
   <p align="center">
-    run this in python for a 10 years of good luck - purelxw
+    run this for a 10 years of good luck - purelxw
   </p>
 
 
