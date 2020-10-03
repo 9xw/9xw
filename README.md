@@ -4,7 +4,7 @@
 
 <p align="center">
   <p align="center">
-    run this in python for a 100 ruples - purelxw
+    run this in python for a 10 years of good luck - purelxw
   </p>
 
 
@@ -21,11 +21,11 @@ purelxw()
 ```
 <p align="center"> 
     <a href="https://discord">discord</a>
-    ·
+    |
     <a href="https://t.me/purelxw">telegram</a>
-    ·
+    |
     <a href="https://steamcommunity.com/id/Purelxw">steam</a>
-    ·
+    |
     <a href="https://twitter.com/purelxw">twitter</a>
 </p>
 
