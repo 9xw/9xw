@@ -20,7 +20,7 @@ def purelxw():
 purelxw()
 ```
 <p align="center"> 
-    <a href="https://discord">discord</a>
+    <a href="https://discord.com/users/343735638085861377">discord</a>
     |
     <a href="https://t.me/purelxw">telegram</a>
     |
