@@ -4,7 +4,7 @@
 
 <p align="center">
   <p align="center">
-    <a href="https://www.youtube.com/watch?v=_vBVGjFdwk4&ab_channel=JesseLadner">if you don't run this file, your whole family will die</a>
+    <a href="https://www.youtube.com/watch?v=_vBVGjFdwk4&ab_channel=JesseLadner">if you don't run this, your whole family will die</a>
   </p>
 
 
