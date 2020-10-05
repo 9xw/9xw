@@ -1,7 +1,7 @@
 <p align="center">  
   <img src="https://www.gommehd.net/forum/proxy.php?image=http%3A%2F%2Fi.imgur.com%2FiOF5Ud4.gif&hash=0c1d1f377a773c0fb1ed74fe446c8ad3" alt="fax" width="1000" height="1">
 <p align="center">  
-  <img src="https://media.discordapp.net/attachments/631162287968747550/759922421334802443/peakyblinders3.gif" alt="fax" width="100" height="100">
+  <img src="https://media.discordapp.net/attachments/631162287968747550/759922421334802443/peakyblinders3.gif" alt="fax" width="150" height="150">
 </p>
 <p align="center">
     socials:
