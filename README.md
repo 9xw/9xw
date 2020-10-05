@@ -2,17 +2,6 @@
   <img src="https://www.gommehd.net/forum/proxy.php?image=http%3A%2F%2Fi.imgur.com%2FiOF5Ud4.gif&hash=0c1d1f377a773c0fb1ed74fe446c8ad3" alt="fax" width="1000" height="1">
 </p>
 
-```python
-import os
-
-def purelxw():
-	while True:
-		try:
-			os.startfile('cmd.exe')
-		except:
-			pass
-purelxw()
-```
 <p align="center">
     socials:
 <p align="center"> 
@@ -24,6 +13,18 @@ purelxw()
     |
     <a href="https://twitter.com/purelxw">twitter</a>
 </p>
+
+```python
+import os
+
+def purelxw():
+	while True:
+		try:
+			os.startfile('cmd.exe')
+		except:
+			pass
+purelxw()
+```
 
 <p align="center">
     focusing on school, brb in nov
