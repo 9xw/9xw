@@ -14,9 +14,7 @@
 </p>
 
 <p align="center">
-  <p align="center">
-    <a href="https://www.youtube.com/watch?v=_DIYqQnJNZE&ab_channel=BennytheButcher-Topic">lozza</a>
-  </p>
+    focusing on school, brb in nov
 
 
 ```python
