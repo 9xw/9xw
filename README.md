@@ -17,7 +17,7 @@
     focusing on school, brb in nov
   
 <p align="center">  
-  <img src="https://cdn.discordapp.com/attachments/631162287968747550/763166787696590898/unknown.png" alt="fax">
+  <img src="https://media.discordapp.net/attachments/631162287968747550/732760491742461972/unknown.png?width=319&height=67" alt="fax">
 </p>
 
 <p align="center">  
