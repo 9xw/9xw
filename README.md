@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-    focusing on school, brb in nov
+    focusing on school, brb mid nov
   
 <p align="center">  
   <img src="https://media.discordapp.net/attachments/631162287968747550/732760491742461972/unknown.png?width=319&height=67" alt="fax">
