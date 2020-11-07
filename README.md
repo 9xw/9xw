@@ -4,7 +4,7 @@
 <p align="center">
     socials:
 <p align="center"> 
-    <a href="https://discord.com/users/343735638085861377">discord</a>
+    <a href="https://discord.com/users/499993799284621313">discord</a>
     |
     <a href="https://t.me/purelxw">telegram</a>
     |
