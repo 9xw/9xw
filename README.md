@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-    exams are nearly finished...
+    i don't really repo anything so yh ok
   
 <p align="center">  
   <img src="https://media.discordapp.net/attachments/631162287968747550/775904570059915284/kratos.gif" alt="fax">
