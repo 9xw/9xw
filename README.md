@@ -1,8 +1,6 @@
 <p align="center">  
   <img src="https://cdn.discordapp.com/attachments/631162287968747550/762808835546808360/line.gif" alt="fax" width="1000" height="1">
 </p>
-<p align="center">
-    socials:
 <p align="center"> 
     <a href="https://discord.com/users/499993799284621313">discord</a>
     |
