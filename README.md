@@ -18,4 +18,4 @@
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=purelxw&color=gray)
+![](https://komarev.com/ghpvc/?username=purelxw&color=lightgray)
