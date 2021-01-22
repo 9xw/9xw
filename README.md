@@ -9,8 +9,6 @@
     |
     <a href="https://t.me/purelxw">telegram</a>
     |
-    <a href="https://www.nulled.to/user/2485701-">nulled</a>
-    |
     <a href="https://steamcommunity.com/id/Purelxw">steam</a>
     |
     <a href="https://twitter.com/purelxw">twitter</a>
