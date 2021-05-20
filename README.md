@@ -3,5 +3,5 @@
     |
     <a href="https://t.me/purelxw">telegram</a>
     |
-    <a href="https://steamcommunity.com/id/purelxw">steam</a>
+    <a href="https://steamcommunity.com/id/lxw20367/">steam</a>
 </p>
