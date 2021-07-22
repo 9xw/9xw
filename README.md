@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=qro&color=lightgrey" alt="fax" width="" height="">
 </p>
 <p align="center">
-    <a href="https://discord.com/users/630087545312509963">discord</a>
+    <a href="https://discord.com/users/289990779697496064">discord</a>
     |
     <a href="https://t.me/qro86">telegram</a>
     |
