@@ -12,6 +12,8 @@
     |
     <a href="https://t.me/qro86">telegram</a>
     |
+    af@crime.to
+    |
     <a href="https://steamcommunity.com/id/qro43/">steam</a>
 </p>
 <p align="center">  
