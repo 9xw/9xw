@@ -10,7 +10,7 @@
 <p align="center">
     <a href="https://discord.com/users/289990779697496064">discord</a>
     |
-    <a href="https://t.me/qro86">telegram</a>
+    <a href="https://t.me/aflozza">telegram</a>
     |
     <a href="https://steamcommunity.com/id/qro43/">steam</a>
     |
