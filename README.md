@@ -14,7 +14,7 @@
     |
     <a href="https://steamcommunity.com/id/qro43/">steam</a>
     |
-    af@crime.io (XMPP)
+    <a href="af@crime.io"> (XMPP)</a>
 </p>
 <p align="center">  
   <img src="https://cdn.discordapp.com/attachments/631162287968747550/762808835546808360/line.gif" alt="fax" width="1000" height="">
