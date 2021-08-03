@@ -12,8 +12,6 @@
     |
     <a href="https://t.me/aflozza">telegram</a>
     |
-    <a href="https://steamcommunity.com/id/qro43/">steam</a>
-    |
     <a href="af@crime.io"> XMPP</a>
 </p>
 <p align="center">  
