@@ -8,8 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=qro&color=lightgrey" alt="fax" width="" height="">
 </p>
 <p align="center">
-    <a href="https://discord.com/users/289990779697496064">discord</a>
-    |
     <a href="https://t.me/aflozza">telegram</a>
     |
     <a href="af@crime.io">XMPP</a>
