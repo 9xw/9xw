@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=qro&color=lightgrey" alt="fax" width="" height="">
 </p>
 <p align="center">
-    <a href="https://t.me/nofbi">telegram</a>
+    <a href="https://t.me/afqro">telegram</a>
     |
     <a href="af@crime.io">XMPP</a>
 </p>
