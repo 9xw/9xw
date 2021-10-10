@@ -1,5 +1,5 @@
 # Hey there 👋
-### I'm lawrence, aka lozza
+### I'm lozza
 
 <p align="center">  
   <img src="https://cdn.discordapp.com/attachments/631162287968747550/762808835546808360/line.gif" alt="fax" width="1000" height="">
