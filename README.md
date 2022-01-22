@@ -7,7 +7,7 @@
 <p align="center">
     <a href="https://t.me/afqro">telegram</a>
     |
-    @qro:matrix.org
+    <a href="https://matrix.org">@qro:matrix.org</a>
 </p>
 <p align="center">  
   <img src="https://cdn.discordapp.com/attachments/631162287968747550/762808835546808360/line.gif" alt="fax" width="1000" height="">
