@@ -5,9 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=qro&color=lightgrey" alt="fax" width="" height="">
 </p>
 <p align="center">  
-  <img src="https://discord.c99.nl/widget/theme-4/806101184447774750.png">
-</p>
-<p align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=qro&show_icons=true&theme=tokyonight" alt="fax" width="" height="">
 </p>
 <p align="center">  
